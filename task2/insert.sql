@@ -113,43 +113,43 @@ insert into performers_album
 values (7, 8);
 
 insert into track (album_id, "name",duration)
-values (1, 'Comatose', '3:20');
+values (1, 'Comatose', '00:03:20');
 
 insert into track (album_id, "name",duration)
-values (1, 'Unbound', '4:48');
+values (1, 'Unbound', '00:04:48');
 
 insert into track (album_id, "name",duration)
-values (2, 'Acheron', '4:32');
+values (2, 'Acheron', '00:04:32');
 
 insert into track (album_id, "name",duration)
-values (2, 'Cursed', '3:40');
+values (2, 'Cursed', '00:03:40');
 
 insert into track (album_id, "name",duration)
-values (3, 'The Flood', '2:52');
+values (3, 'The Flood', '00:02:52');
 
 insert into track (album_id, "name",duration)
-values (3, 'Deadweight', '3:30');
+values (3, 'Deadweight', '00:03:30');
 
 insert into track (album_id, "name",duration)
-values (4, 'Shiver', '4:25');
+values (4, 'Shiver', '00:04:25');
 
 insert into track (album_id, "name",duration)
-values (4, 'Parasite', '2:53');
+values (4, 'Parasite', '00:02:53');
 
 insert into track (album_id, "name",duration)
-values (5, 'Tempest', '2:56');
+values (5, 'Tempest', '00:02:56');
 
 insert into track (album_id, "name",duration)
-values (5, 'Darkest Frame', '3:52');
+values (5, 'Darkest Frame', '00:03:52');
 
 insert into track (album_id, "name",duration)
-values (6, 'Werifesteria', '4:06');
+values (6, 'Werifesteria', '00:04:06');
 
 insert into track (album_id, "name",duration)
-values (6, 'mytrack', '4:08');
+values (6, 'mytrack', '00:04:08');
 
 insert into track (album_id, "name",duration)
-values (7, 'Nemesis', '5:17');
+values (7, 'Nemesis', '00:05:17');
 
 insert into playlist ("name", year_of_issue)
 values ('playlist1','2017-03-21');

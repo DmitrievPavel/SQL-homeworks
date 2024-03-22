@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(Base)
+add_executable(Base base.h base.cpp main.cpp )
+add_subdirectory("D:\\libpqxx-7.9.0" libpqxx-build)
+target_compile_features(Base PRIVATE cxx_std_17)
+target_link_libraries(Base pqxx)

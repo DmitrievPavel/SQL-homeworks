@@ -88,7 +88,7 @@ int main()
                                 "port=5432 "
                                 "dbname=homeworkbase "
                                 "user=postgres "
-                                "password=a1b2c3d4";
+                                "password=";
 
     try {
         auto postgres = std::make_unique<Wt::Dbo::backend::Postgres>(connectionStr);

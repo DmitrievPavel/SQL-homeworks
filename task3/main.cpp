@@ -6,7 +6,7 @@ constexpr char* settings = "host=localhost "
 "port=5432 "
 "dbname=homeworkbase "
 "user=postgres "
-"password=a1b2c3d4";
+"password=";
 
 int main() {
 
